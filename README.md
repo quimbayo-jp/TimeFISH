@@ -43,7 +43,7 @@ Water in the winter (~18°C). These oceanographic conditions characterize this a
 climatic transition zone in the Atlantic Ocean. As a result, reef fish assemblages comprise both tropical and subtropical species. 
 All records included in TimeFish were collected using UVCs, a non-destructive method that allows the estimation of fish species richness,
 abundance, and body size distributions. UVCs were performed through 40 m2 belt transects by scuba diving in nine locations along the 
-southern Brazilian coast (25S – 29S). Four of these locations lie within the boundaries of the no-entry Arvoredo Marine Biological Reserve, 
+southern Brazilian coast (25°S – 29°S). Four of these locations lie within the boundaries of the no-entry Arvoredo Marine Biological Reserve, 
 where fishing and recreational activities are forbidden, and the remaining locations are unprotected from these activities. During each 
 belt transect, a diver swam at a constant depth above and parallel to the reef, identifying fish species, counting the number of individuals, 
 and estimating the total body length (Lt in cm) of all detected individuals. All fish individuals in the water column (up to 2 m above the substratum)
@@ -56,7 +56,6 @@ in transition zones. No copyright restrictions apply to the use of this data set
 
 ## Data
 Data are provided in the form of comma-separated values files (csv).
-[![DOI]()]()
 
 If you use any dataset please cite the article above and the original reference for the data 
 set as described below.
